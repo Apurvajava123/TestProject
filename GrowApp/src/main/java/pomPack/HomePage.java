@@ -17,4 +17,8 @@ public class HomePage {
 	    public void logoutmethod() {
 		   logout.click();
 	}
+	
+}
+public void apurva(){
+
 }
